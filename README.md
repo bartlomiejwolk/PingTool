@@ -4,7 +4,8 @@ Ping tool for Unity 3d. Displays IMGUI with options to ping any given ip address
 
 Licensed under MIT license. See LICENSE file in the project root folder.   
 
-![PingTool](/Resources/screenshot.png?raw=true)
+![PingTool](/Resources/cover_screenshot.png?raw=true)
+![PingTool component](/Resources/pingtool_component.png?raw=true)
 
 ## Features
 
