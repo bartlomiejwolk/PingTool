@@ -16,6 +16,7 @@ Licensed under MIT license. See LICENSE file in the project root folder.
 ## Resources
 
 * [Unity forum thread](http://forum.unity3d.com/threads/open-source-ping-tool.397881/)
+* [Blog post](https://bartlomiejwolk.wordpress.com/2016/04/15/pingtool/)
 
 ## Quick Start
 
